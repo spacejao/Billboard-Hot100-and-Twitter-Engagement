@@ -4,6 +4,6 @@ I created this project to understand how the popularity of a song on Twitter aff
 
 ## [Part 1 - Getting the data](https://github.com/spacejao/Billboard-Hot100-and-Twitter-Engagement/blob/main/1%20-%20Getting%20the%20Data.ipynb)
 
-## Part 2 - Treatment and vizualizations
+## [Part 2 - Treatment and vizualizations](https://github.com/spacejao/Billboard-Hot100-and-Twitter-Engagement/blob/main/2%20-%20Data%20Treatment%20and%20Visualization.ipynb)
 
 ## Part 3 - Machine Learning models
